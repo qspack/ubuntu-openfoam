@@ -1,2 +1,2 @@
-# ubuntu-openfoam-com
+# ubuntu-openfoam
 Ubuntu image holding OpenFOAM
